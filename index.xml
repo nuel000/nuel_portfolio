@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Emmanuel Momoh</title>
+    <link>https://nuel000.github.io/nuel_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Emmanuel Momoh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://nuel000.github.io/nuel_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customers and Products Analysis Using SQL</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-3/</link>
+      <pubDate>Sun, 18 Sep 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-3/</guid>
+      <description>The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
+We all know that good analysis starts with questions. Below are the questions we want to answer for this project.
+Question 1: Which products should we order more of or less of?🤔
+Question 2: How should we tailor marketing and communication strategies to customer behaviors?🤔
+Question 3: How much can we spend on acquiring new customers?</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping NBA Statics with Python</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-1/</link>
+      <pubDate>Sat, 17 Sep 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-1/</guid>
+      <description>In this project, I scraped NBA statistics data from basketballreference and saved the data in csv formats, This is in a bid to demonstrate my data gathering skills and ultimately train a ML model that can predict who would likely win the NBA MVP Award using statistics from historic data..
+See Github repo HERE</description>
+    </item>
+    
+    <item>
+      <title>Prosper Loan Data Exploration and Analysis</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-6/</link>
+      <pubDate>Wed, 13 Jul 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-6/</guid>
+      <description>Dataset The data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.The dataset can be found here,with feature documentation available here.
+Summary of Findings At the begining of the investigation, I performed preliminary wrangling by converting Income Range and ProsperRating to categorical variable, this returns the income/Prosper rating classes with the categories and orderedness.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis on No-show medical appointments</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 21 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-2/</guid>
+      <description>In this project, I analyzed a dataset that includes records of over 100,000 medical appointments in Brazil. Specifically focusing on the question of whether or not patients show up for their appointment and finally we will uncover trends and patterns by answering questions such as;
+What are the characteristics associated with patients who do not shop up for their appointments? What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Quasimodo</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-5/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Master Jacques Coppenole</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nuel000.github.io/nuel_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/about/</guid>
+      <description>I picked interest in data science and analytics in the early months 2022, and in pursuit of this, I took the Google Data Analytics Professional Certificate which exposed me to basic tools for Data Analysis such as SQL, Excel and Tableau.To further cement my understanding of these concepts, applied for and got accepted into ALX-Udacity Data Analytics Nano degree programme which basically delves deeper into use of python for Data Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nuel000.github.io/nuel_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/contact/</guid>
+      <description>Please contact me through any of the social platforms below
+Platforms
+LinkedIn
+Github
+Medium
+Email : momohemmanuel370@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
