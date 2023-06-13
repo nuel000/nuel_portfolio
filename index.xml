@@ -6,7 +6,28 @@
     <description>Recent content in Data Science Portfolio on Emmanuel Momoh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://nuel000.github.io/nuel_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://nuel000.github.io/nuel_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptocurrency-ETL-Pipeline</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 12 Jun 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-1/</guid>
+      <description>In this project, I employed the use of an automated library called Playwright to extract data from Coin Market Cap. The extracted data was then processed and diligently saved into a MYSQL Database.
+See Github repo HERE</description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Fraud Detection</title>
+      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-4/</link>
+      <pubDate>Sat, 27 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-4/</guid>
+      <description>The project&amp;rsquo;s aim was to flag fraudulent financial statements from companies that have been issued a guarantee from an insurance company. The purpose is to ensure the financial information used in the credit risk modelling process is sound.
+The deliverables were:
+A solution that can handle new incoming data and flag the fraudulent financial statements. Analysis of the predicted fraud across different features. Comparison of the prediction models used. In the course of the project, my team was given a dataset containing financial statements from companies spanning across different industries like construction, logistics etc.</description>
+    </item>
+    
     <item>
       <title>Customers and Products Analysis Using SQL</title>
       <link>https://nuel000.github.io/nuel_portfolio/post/chapter-3/</link>
@@ -18,16 +39,6 @@ We all know that good analysis starts with questions. Below are the questions we
 Question 1: Which products should we order more of or less of?🤔
 Question 2: How should we tailor marketing and communication strategies to customer behaviors?🤔
 Question 3: How much can we spend on acquiring new customers?</description>
-    </item>
-    
-    <item>
-      <title>Web Scraping NBA Statics with Python</title>
-      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-1/</link>
-      <pubDate>Sat, 17 Sep 2022 11:14:48 -0400</pubDate>
-      
-      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-1/</guid>
-      <description>In this project, I scraped NBA statistics data from basketballreference and saved the data in csv formats, This is in a bid to demonstrate my data gathering skills and ultimately train a ML model that can predict who would likely win the NBA MVP Award using statistics from historic data..
-See Github repo HERE</description>
     </item>
     
     <item>
@@ -48,24 +59,6 @@ Summary of Findings At the begining of the investigation, I performed preliminar
       <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-2/</guid>
       <description>In this project, I analyzed a dataset that includes records of over 100,000 medical appointments in Brazil. Specifically focusing on the question of whether or not patients show up for their appointment and finally we will uncover trends and patterns by answering questions such as;
 What are the characteristics associated with patients who do not shop up for their appointments? What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?</description>
-    </item>
-    
-    <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://nuel000.github.io/nuel_portfolio/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://nuel000.github.io/nuel_portfolio/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
     </item>
     
     <item>
